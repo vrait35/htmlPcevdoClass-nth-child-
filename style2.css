@@ -1,0 +1,25 @@
+.main{
+  color:black;
+}
+.header{
+  font-weight: bold;
+  margin-top: 40px;
+  margin-left: 30px;
+  font-size: 30px;
+}
+.content{
+  margin-left: 40px;
+}
+ul>li{
+  list-style-type:square;
+  margin-bottom: 5px;
+}
+ul>li:nth-child(1){
+  font-weight: bold;
+  color:rgb(218, 24, 158);
+}
+ul>li:last-child{
+  font-style: italic;
+  color:rgb(34, 221, 30);
+  font-weight:normal;
+}

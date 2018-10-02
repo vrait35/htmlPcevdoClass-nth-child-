@@ -1,0 +1,11 @@
+ul>li{
+  color:rgb(106, 244, 32);
+}
+ul>li:nth-child(odd){
+  color:rgb(80, 66, 148);
+  font-weight: bold;
+  text-transform: uppercase;
+}
+ul>li:nth-child(even){
+  color:rgb(215, 9, 52);
+}
